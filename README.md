@@ -5,7 +5,7 @@
 當使用者透過LINE發送訊息時，LINE Platform將會進行接收，並且傳遞至LINE Bot執行邏輯運算後
 ，將透過LINE所提供的Messaging API回應訊息給LINE Platform，最後再將訊息傳遞給使用者。
 
-前置作業
+前置作業1 - Django Part
 -
 **0.To install django:** <br>
 ```pip install django```
@@ -22,6 +22,18 @@ py manage.py runserver
 ```
 py manage.py startapp appName
 ```
+
+前置作業2 - Ngrok Part
+-
+註冊Ngrok account <br>
+https://ngrok.com/
+
+前置作業3 - LINEBOT Part
+-
+註冊LINEBOT developer account <br>
+https://developers.line.biz/en/
+
+
 
 執行畫面
 -
