@@ -21,7 +21,7 @@ django-admin startproject YourProjectName
 cd project_location
 py manage.py runserver
 ```
-**2.To Create App & Migration:**
+**2.Create App & Migration:**
 ```
 py manage.py startapp appName
 py manage.py migrate 
