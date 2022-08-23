@@ -1,6 +1,10 @@
 # Python_Webcrawler_LINEBOT
 專案介紹
 -
+
+
+前置作業
+-
 **0.To install django:** <br>
 ```pip install django```
 
@@ -8,9 +12,14 @@
 ```
 cd.. your_file_location
 django-admin startproject YourProjectName
+
+cd project_location
+py manage.py runserver
+```
+**2.To Create App:**
+```
+py manage.py startapp appName
 ```
 
-前置作業
--
 執行畫面
 -
