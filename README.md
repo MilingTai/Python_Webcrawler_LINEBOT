@@ -8,7 +8,8 @@
 前置作業1 - Django Part
 -
 **0.Install packages:** <br>
-```pip install django
+```
+pip install django
 pip install line-bot-sdk
 ```
 
