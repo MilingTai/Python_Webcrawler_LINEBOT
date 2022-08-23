@@ -7,10 +7,10 @@
 
 前置作業1 - Django Part
 -
-**0.To install django:** <br>
+**0.Install django:** <br>
 ```pip install django```
 
-**1.To Create Project:**
+**1.Create Project:**
 ```
 cd.. your_file_location
 django-admin startproject YourProjectName
@@ -30,9 +30,11 @@ https://ngrok.com/
 
 前置作業3 - LINEBOT Part
 -
-註冊LINEBOT developer account <br>
+註冊LINEBOT developer account : <br>
 https://developers.line.biz/en/
 
+Install linebot packages : <br>
+```pip install line-bot-sdk```
 
 
 執行畫面
